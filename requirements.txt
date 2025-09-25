@@ -1,6 +1,6 @@
 pandas
 torch<2.4  # Llama2 didn't work with torch 2.4.0
-nnsight
+nnsight<0.5
 seaborn
 jupyter
 coolname
